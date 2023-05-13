@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 author: "tortoizthemes"
 keywords: "HTML5, Template, Design, portfolio, Litmus, Single portfolio"
-url: "https://litmus-jk.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ezerkenegdo.github.io/website/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Google Analytics
 google_analytics: "UA—XXXXXXXX-X"
